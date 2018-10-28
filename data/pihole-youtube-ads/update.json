@@ -1,0 +1,10 @@
+{
+    "name": "pihole-youtube-ads",
+    "description": "Blocking with youtube ads.",
+    "homeurl": "https://github.com/marcreichel/pihole-youtube-ads",
+    "frequency": "frequently",
+    "issues": "mailto:pgl@yoyo.org",
+    "url": "https://raw.githubusercontent.com/marcreichel/pihole-youtube-ads/master/list.txt"
+}
+
+

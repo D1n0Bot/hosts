@@ -1,0 +1,10 @@
+{
+    "name": "dnschina",
+    "description": "Blocking with china ads.",
+    "homeurl": "https://github.com/binbin-cn/dnschina",
+    "frequency": "frequently",
+    "issues": "mailto:pgl@yoyo.org",
+    "url": "https://raw.githubusercontent.com/binbin-cn/dnschina/master/easylistchina.hosts"
+}
+
+

@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: December 19 2018
+# Date: December 23 2018
 # Extensions added to this file: fakenews, gambling
-# Number of unique domains: 78,272
+# Number of unique domains: 78,275
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -32542,8 +32542,8 @@ ff02::3 ip6-allhosts
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 Dec 2018 21:01:45 GMT
-# entries:        2946
+# last updated:   Sun, 23 Dec 2018 07:53:03 GMT
+# entries:        2944
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -32551,7 +32551,7 @@ ff02::3 ip6-allhosts
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 24 Dec 1998 00:00:00
+# start date:    Mon, 28 Dec 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -33158,7 +33158,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 advertisingtag.net
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -33246,6 +33245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 anrdoezrs.net
 0.0.0.0 anxiousapples.com
 0.0.0.0 apathetictheory.com
 0.0.0.0 api.intensifier.de
@@ -33390,7 +33390,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blogads.com
 0.0.0.0 blogcounter.de
 0.0.0.0 blogherads.com
-0.0.0.0 blogrush.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 bluekai.com
@@ -33413,7 +33412,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 braincash.com
 0.0.0.0 branch.io
 0.0.0.0 brandreachsys.com
-0.0.0.0 brid.tv
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightinfo.com
 0.0.0.0 british-banners.com
@@ -33482,6 +33480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 clickability.com
@@ -33584,9 +33583,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 crowdgravity.com
 0.0.0.0 crownclam.com
 0.0.0.0 crwdcntrl.net
-0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
+0.0.0.0 culturedcrayon.com
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 curtaincows.com
 0.0.0.0 customad.cnn.com
@@ -34246,6 +34245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
 0.0.0.0 optmstr.com
+0.0.0.0 optnmstr.com
 0.0.0.0 ordingly.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
@@ -34947,6 +34947,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yabuka.com
 0.0.0.0 yadro.ru
+0.0.0.0 yepads.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldads.com
@@ -34981,8 +34982,8 @@ ff02::3 ip6-allhosts
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-18T21:21:02+00:00
-# Count: 26052 domains
+# Released: 2018-12-21T14:04:19+00:00
+# Count: 26055 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -43059,6 +43060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zogsports.getambassador.com
 0.0.0.0 zottosleep.getambassador.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
@@ -47287,7 +47289,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.optmstr.com
 0.0.0.0 www.optmstr.com
 0.0.0.0 z.optmstr.com
-0.0.0.0 optnmstr.com
 0.0.0.0 a.optnmstr.com
 0.0.0.0 api.optnmstr.com
 0.0.0.0 beta-api.optnmstr.com
@@ -55030,6 +55031,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 indycar500.tykelly.hop.clickbank.net
 0.0.0.0 corkdg.zcodesys.hop.clickbank.net
 0.0.0.0 cookieconsent.cloudapp.net
+0.0.0.0 pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 sconsentit904.cloudapp.net
@@ -55635,6 +55637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4401979.fls.doubleclick.net
 0.0.0.0 4440053.fls.doubleclick.net
 0.0.0.0 4448631.fls.doubleclick.net
+0.0.0.0 4449091.fls.doubleclick.net
 0.0.0.0 4457442.fls.doubleclick.net
 0.0.0.0 4463272.fls.doubleclick.net
 0.0.0.0 4468061.fls.doubleclick.net
@@ -66250,7 +66253,7 @@ ff02::3 ip6-allhosts
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 19 Dec 2018 at 04:27:55 GMT
+# Last updated: Sat, 22 Dec 2018 at 22:39:18 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -72404,6 +72407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl-plugin.com
 0.0.0.0 dlvr.readserver.net
 0.0.0.0 dmp.vihub.ru
+0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dnps.com
 0.0.0.0 dnse.linkpulse.com
 0.0.0.0 doesok.top
@@ -75819,7 +75823,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mp3playersource.com
 0.0.0.0 www.mpression.net
 0.0.0.0 www.myadsl.co.za
-0.0.0.0 www.myairbridge.com
 0.0.0.0 www.mycashback.co.uk
 0.0.0.0 www.mycelloffer.com
 0.0.0.0 www.mychoicerewards.com

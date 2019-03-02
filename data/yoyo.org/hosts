@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 23 Jan 2019 15:34:01 GMT
-# entries:        2965
+# last updated:   Fri, 22 Feb 2019 13:15:56 GMT
+# entries:        2954
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 26 Feb 1999 00:00:00
+# start date:    Sun, 07 Mar 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -56,6 +56,7 @@
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aaddzz.com
 0.0.0.0 abacho.net
 0.0.0.0 abackchain.com
 0.0.0.0 abandonedaction.com
@@ -181,7 +182,6 @@
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
-0.0.0.0 ad2.linxcz.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.xrea.com
 0.0.0.0 ad2flash.com
@@ -200,8 +200,6 @@
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
-0.0.0.0 adboost.de.vu
-0.0.0.0 adboost.net
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
 0.0.0.0 adbrite.com
@@ -361,7 +359,6 @@
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
@@ -919,7 +916,6 @@
 0.0.0.0 alexametrics.com
 0.0.0.0 alipromo.com
 0.0.0.0 all4spy.com
-0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
 0.0.0.0 amazingcounters.com
@@ -1191,7 +1187,6 @@
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
-0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
 0.0.0.0 cdn.freefarcy.com
@@ -1228,7 +1223,6 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1343,7 +1337,6 @@
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
-0.0.0.0 cowledges.com
 0.0.0.0 cp.abbp1.pw
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
@@ -1502,7 +1495,6 @@
 0.0.0.0 endurableshop.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
-0.0.0.0 enlarget.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
@@ -1734,7 +1726,6 @@
 0.0.0.0 i1media.no
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iad.anm.co.uk
-0.0.0.0 iadnet.com
 0.0.0.0 iasds01.com
 0.0.0.0 iconadserver.com
 0.0.0.0 icptrack.com
@@ -2008,7 +1999,7 @@
 0.0.0.0 moggattice.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 monetate.net
-0.0.0.0 moneyexpert.com
+0.0.0.0 moneyexpert.co.uk
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
 0.0.0.0 mopub.com
@@ -2170,6 +2161,7 @@
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank4you.com
+0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parchedangle.com
@@ -2278,7 +2270,6 @@
 0.0.0.0 props.id
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
-0.0.0.0 provalist.info
 0.0.0.0 provexia.com
 0.0.0.0 provideplant.com
 0.0.0.0 prsitecheck.com
@@ -2683,7 +2674,6 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
-0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
@@ -2747,7 +2737,6 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.focuusing.com
-0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
